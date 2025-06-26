@@ -25,7 +25,6 @@ public class TaskManager {
 
     }
 
-
     public void deleteAllTasks() {
         tasks.clear();
     }
