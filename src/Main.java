@@ -1,6 +1,6 @@
-public class Main {
+public class Main { //Привет, Ярослав! Прошу прощения. Утром на работе, когда начала 5-й спринт проходить,
 
-    static void main(String[] args){
+    static void main(String[] args){ // поняла, что где-то накосячила, но до вечера уже не было возможности исправить
 
         TaskManager taskManager = new TaskManager();
 
